@@ -1,0 +1,33 @@
+.container{
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+.dice{
+    font-family: 'Shadows Into Light', cursive;
+  
+    text-align:center;
+    display: inline-block;
+}
+body{
+    background: #83ca19;
+}
+h1{
+    margin:30px;
+    font-size: 7rem;
+    font-family: 'Ranchers', cursive;
+    text-shadow: 2px 0 black;;
+}
+p{
+    font-size: 2rem;
+
+}
+img{
+    width:80%;
+}
+footer{
+    font-family: 'Shadows Into Light', cursive;
+    font-size:1.6rem;
+    text-align:center;
+    margin-top: 5%;
+}
